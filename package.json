@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fcm-push": "^1.1.3",
     "node-gcm": "^0.14.9"
   }
 }
